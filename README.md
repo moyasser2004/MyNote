@@ -1,16 +1,4 @@
 # mynote
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![iPhone 15 Pro Max Mockup, Front View (2)](https://github.com/user-attachments/assets/e05ccb29-7528-403a-9208-fe234e27e19c)
+![iPhone 15 Pro Max Mockup, Front View (1)](https://github.com/user-attachments/assets/7d39385f-bfe0-4b15-9642-b6ae793ce91f)
+![iPhone 15 Pro Max Mockup, Front View](https://github.com/user-attachments/assets/6c561285-13d5-425b-88b8-0a97166e233c)
